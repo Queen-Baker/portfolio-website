@@ -186,17 +186,17 @@ header .top-header {
 }
 
 .hello .dot {
-  color: #50B793;
+  color: #509ab7;
   font-size: 13rem;
 }
 
 .top-text {
-  color: #50B793;
+  color: #b77950;
 }
 
 .hello p {
   font-size: 4rem;
-  color: #f8f8f8;
+  color: #6c16ce;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -208,7 +208,7 @@ header .top-header {
 }
 
 .hello strong {
-  color: #1C1B1F;
+  color: #1e1f1b;
 }
 
 /* WORK SECTION */
@@ -231,7 +231,7 @@ header .top-header {
 }
 
 .work .work-title .dot {
-  color: #009b7a
+  color: #df119a
 }
 
 /* WORK GALLERY */
@@ -285,7 +285,7 @@ header .top-header {
 
 .work-card .description {
   padding: 1rem;
-  background: #fff;
+  background: rgb(218, 12, 12);
   position: relative;
   z-index: 1;
 }
@@ -298,7 +298,7 @@ header .top-header {
 .work-card .description h4 {
   font-size: 1.5rem;
   text-transform: uppercase;
-  color: #808080;
+  color: #60e798;
   margin-top: 5px;
 }
 
@@ -312,7 +312,7 @@ header .top-header {
 }
 
 .description .read-more a {
-  color: #009b7a;
+  color: #96a513;
   position: relative;
 }
 
@@ -502,7 +502,7 @@ header .top-header {
 /* CONTACT */
 
 .contact .title h3 {
-  color: #009b7a;
+  color: #269dc2;
   padding-left: 4vh;
   margin: 4vh auto;
 }
@@ -513,7 +513,7 @@ header .top-header {
 }
 
 .contact .title .dot {
-  color: #50B793;
+  color: #c7da24;
 }
 
 address p strong {
@@ -577,5 +577,5 @@ footer {
 .socials ul li a i {
   text-align: center;
   font-size: 3rem;
-  color: #F8F8F8;
+  color: #bb1497;
 }
